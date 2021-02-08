@@ -137,6 +137,14 @@ header {
   text-align: center;
 }
 
+.about-us {
+  background-color: #fff;
+}
+
+.about-us p {
+  color: black;
+}
+
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
