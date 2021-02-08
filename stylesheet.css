@@ -199,11 +199,12 @@ footer img {
 }
 
 footer p {
-  color: #b3aeb5;
+  color: #fff;
   font-size: 12px;
 }
 
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: rgba(34, 49, 52, 0.9);
 }
