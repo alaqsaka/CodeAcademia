@@ -86,7 +86,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: #000820;
   position :fixed;
   top: 0;
   z-index: 10;
@@ -95,7 +95,7 @@ header {
 .logo {
   width: 10px;
   font-size: 23px;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .header-left {
@@ -128,7 +128,20 @@ header {
   opacity: 0;
 }
 
+.company {
+  position: relative;
+  margin: 0 auto;
+}
 
+.partners {
+  font-weight: bold;
+}
+
+.company img {
+  margin: 0 auto;
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
 
 .lesson-wrapper {
   padding-bottom: 80px;
@@ -146,6 +159,10 @@ header {
   color: black;
 }
 
+.about-us h2{
+  font-weight: bolder;
+}
+
 .partners{
   margin-top: 5rem;
   margin: 0 auto;
@@ -160,10 +177,11 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  
 }
 
 .heading h2 {
-  font-weight: 5000;
+  font-weight: bolder;
 }
 
 .lesson {
@@ -204,9 +222,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #000820;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #00134b75;
 }
 
 .message:active {
@@ -227,5 +245,6 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: #000820;
+  color: #fff;
 }
