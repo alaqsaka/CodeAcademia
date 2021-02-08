@@ -129,6 +129,7 @@ header {
 }
 
 
+
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -143,6 +144,16 @@ header {
 
 .about-us p {
   color: black;
+}
+
+.partners{
+  margin-top: 5rem;
+  margin: 0 auto;
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  
 }
 
 .heading {
