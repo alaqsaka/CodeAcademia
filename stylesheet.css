@@ -169,6 +169,8 @@ header {
   margin-top: 15px;
   font-size: 15px;
   color: #b3aeb5;
+  text-justify: inter-word;
+  text-align: justify;
 }
 
 .heading h3 {
