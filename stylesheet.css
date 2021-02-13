@@ -193,11 +193,17 @@ header {
   position: relative;
 }
 
+
+
 .lesson-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
   color: white;
+}
+
+#about-text {
+  font-size: 18px;
 }
 
 .text-contents {
@@ -209,6 +215,7 @@ header {
   text-justify: inter-word;
   text-align: justify;
 }
+
 
 .heading h3 {
   font-weight: normal;
