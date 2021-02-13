@@ -248,3 +248,30 @@ footer {
   background-color: #000820;
   color: #fff;
 }
+
+.social-media-icon img{
+  width: 24px;
+  margin-right: 2rem;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.footer-info {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+}
+
+.footer-info ul{ 
+  list-style: none;
+}
+
+.footer-info a {
+  color: #fff;
+}
+
+.copyright a{
+  color: #fff;
+  text-align:  center;
+}
